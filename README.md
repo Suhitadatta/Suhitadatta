@@ -9,7 +9,8 @@
   
 - 👀 I’m interested in Pyhton, Data science, ML, Java and software developer.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ripamkundu](https://github.com/ripamkundu)
+- 👨‍💻 All of my projects are available at [https://github.com/Suhitadatta](https://github.com/Suhitadatta)
+
 
 - 📫 How to reach me **dattasuhita@gmail.com**
 
